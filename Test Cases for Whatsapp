@@ -1,0 +1,32 @@
+1. Account creation:
+* Verify that a user can create a new account using a valid phone number and OTP (One Time Password).
+* Verify that a user cannot create a new account using an invalid phone number.
+* Verify that a user cannot create a new account without providing all required information.
+2. Messaging:
+* Verify that a user can send and receive messages.
+* Verify that messages are delivered in the correct order.
+* Verify that messages are encrypted end-to-end and cannot be intercepted by third parties.
+* Verify that the app can handle sending and receiving messages in different network conditions (e.g. slow or unstable connections).
+3. Group chat:
+* Verify that a user can create a new group chat.
+* Verify that a user can add and remove members from a group chat.
+* Verify that messages sent in a group chat are visible to all members of the group.
+* Verify that a user can leave a group chat.
+4. Media sharing:
+* Verify that a user can share different types of media, such as photos, videos, and audio files.
+* Verify that media files are compressed appropriately to reduce data usage and optimize performance.
+* Verify that media files can be downloaded and saved to the user's device.
+5. Settings and preferences:
+* Verify that a user can change their profile picture and status.
+* Verify that a user can adjust notification settings, such as sound and vibration preferences.
+* Verify that a user can adjust privacy settings, such as who can see their profile information.
+* Verify that the app behaves correctly when settings are changed.
+6. Security:
+* Verify that the app is protected by a password or biometric authentication.
+* Verify that the app cannot be accessed without the correct authentication method.
+* Verify that the app has appropriate safeguards against hacking and unauthorized access.
+7. Voice and video calls:
+* Verify that a user can make and receive voice and video calls.
+* Verify that calls are encrypted end-to-end and cannot be intercepted by third parties.
+* Verify that the app can handle voice and video calls in different network conditions (e.g. slow or unstable connections).
+* Verify that a user can adjust call settings, such as camera and microphone preferences.
