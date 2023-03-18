@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Appiah Donkor</h1>
 <h3 align="center">A passionate Software Tester and Cybersecurity Professional.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/appiah-donkor-isaac-357559a8</h3>
 <p align="left">
 </p>
 
